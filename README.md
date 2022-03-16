@@ -1,5 +1,5 @@
 # Olá 👋
-## Luiz Felipe, 24 anos, Salvador/BA
+## Luiz Felipe, 25 anos, Salvador/BA
 
 - 🔭 Trabalho atualmente na [**Atento Brasil**](https://atento.com/pb/quem-somos/) 
 - 🌱 Estou cursando **ADS** (_Análise e Desenvolvimento de Sistemas_) no [**IFBA**](https://pt.wikipedia.org/wiki/Instituto_Federal_da_Bahia)
