@@ -3,7 +3,7 @@
 
 - 🌱 Estou cursando **ADS** (_Análise e Desenvolvimento de Sistemas_) no [**IFBA**](https://pt.wikipedia.org/wiki/Instituto_Federal_da_Bahia)
 - 🔭 Atualmente procurando estágio na área de desenvolvimento backend
-- 🧠 Possui conhecimentos em linguagem C, Python, VBA e Java
+- 🧠 Possuo conhecimentos em linguagem C, Python, VBA e Java
 - 📱 Você pode falar comigo por aqui ⇩ <br/>
 
   <img> <a href = "mailto:fellipe116@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
