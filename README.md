@@ -15,5 +15,6 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luizfelipetorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipetorres&layout=compact&langs_count=7&theme=dracula"/>
   
+  ![DanielDDHM-contributions](https://activity-graph.herokuapp.com/graph?username=luizfelipetorres&theme=github)
   ![Snake animation](https://github.com/luizfelipetorres/luizfelipetorres/blob/output/github-contribution-grid-snake.svg)
 </div>
