@@ -1,9 +1,8 @@
 # Olá 👋
-## Luiz Felipe, 26 anos, Salvador/BA
+## Luiz Felipe, 27 anos, Salvador/BA
 
 - 🌱 Estou cursando **ADS** (_Análise e Desenvolvimento de Sistemas_) no [**IFBA**](https://pt.wikipedia.org/wiki/Instituto_Federal_da_Bahia)
-- 🧠 Possuo conhecimentos em Java, C, Python, e VBA
-- 📚 Atualmente estudando desenvolvimento mobile com Kotlin e Flutter
+- 🧠 Possuo conhecimentos em Java, Kotlin, Dart e Javascript
 - 📱 Você pode falar comigo por aqui ⇩ <br/>
 
   <img> <a href = "mailto:fellipe116@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
